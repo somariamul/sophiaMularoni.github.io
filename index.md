@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <head> Sophia </head>
   <body>
