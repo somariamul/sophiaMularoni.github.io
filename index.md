@@ -8,10 +8,9 @@
 ```markdown
 I have done many woodworking projects, from making a cutting board for myself to designing, 
 fabricating, and selling furniture out of my garage.
-
+```
 ![desk1](https://user-images.githubusercontent.com/23114058/113619033-74f3f200-9626-11eb-8a96-e64c8ca7061d.jpg)
 
-```
 
 ### Robotics
 ```markdown
