@@ -1,3 +1,12 @@
+<html>
+  <body>
+    <h1> Sophia Mularoni </h1>
+    <p> Welcome to my online portfolio! </p>
+    <p> Projects: </p>
+    
+  </body>
+</html>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/somariamul/somariamul.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
