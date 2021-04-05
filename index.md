@@ -1,7 +1,8 @@
 <html>
-  <head> Sophia </head>
   <body>
-    <h1> Hello World </h1>
-    <p> This is my website! </p>
+    <h1> Sophia Mularoni </h1>
+    <p> Welcome to my online portfolio! </p>
+    <p> Projects: </p>
+    
   </body>
 </html>
