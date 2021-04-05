@@ -1,15 +1,17 @@
-## Welcome to my online portfolio
-## About me
-
+## **About me**
+  I'm a college student (:
+  [Resume.pdf](https://github.com/somariamul/Sophia-Mularoni/files/6260245/Resume.pdf)
 ## **Projects**
 
-### TITLE
+### Live Edge Furniture
 
 ```markdown
-Project 1
+I have done many woodworking projects, from making a cutting board for myself to designing, fabricating, and selling furniture.
+![desk1](https://user-images.githubusercontent.com/23114058/113617077-f302c980-9623-11eb-8660-26d7a72e7e2f.jpg)
+
 ```
 
-### TITLE 2
+### Robotics
 ```markdown
 Project 2
 ```
