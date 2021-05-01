@@ -1,7 +1,8 @@
 # **About me**
   I have lived in Washington state for most of my life, and am currently attending WPI as a robotics major. 
   In my free time I like to enjoy the outdoors. I'm currently looking  for summer time employement, and possibly a co-op.
-  Check out my [resume](https://github.com/somariamul/Sophia-Mularoni/files/6260245/Resume.pdf) for more info on my skills and work experience!
+  Check out my [resume](https://github.com/somariamul/Sophia-Mularoni/files/6260245/Resume.pdf) for more info on my 
+  skills and work experience!
   <img src="https://user-images.githubusercontent.com/23114058/116797495-48f84f00-aab4-11eb-911e-455bf3f06d7e.jpg" width="300" height="550" alt="">
   <img src="https://user-images.githubusercontent.com/23114058/116797497-4f86c680-aab4-11eb-9e38-178dc72855ea.jpeg" width="550" height="300" alt="">
   
