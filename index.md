@@ -2,7 +2,7 @@
   I'm a college student looking for summer time employment. 
   Check out my [resume](https://github.com/somariamul/Sophia-Mularoni/files/6260245/Resume.pdf) for more info on my skills and work experience!
   
-## **Education**
+# **Education**
 ### **Worcester Polytechnic Institute (WPI)**
 ```markdown
 I am currently a freshman pursuing a bachelors of Bachelors of Science in  Robotics Engineering.
@@ -15,7 +15,7 @@ GPA: 3.55/4.0
   GPA: 3.60/4.0
 ```
 
-## **Projects**
+# **Projects**
 ### Live Edge Furniture
 
 ```markdown
@@ -35,7 +35,7 @@ in CAD and CAM software, as well as C++ and 3D printing.
 ```
 ![robotisCollage](https://user-images.githubusercontent.com/23114058/116796848-bf458300-aaad-11eb-8d2b-41818580ecb8.PNG)
 
-## Work Experience
+# Work Experience
 ### Home Depot - Hardware Associate *April 2020 - December 2020*
 ```markdown
 -Assisted customers in finding supplies for projects
