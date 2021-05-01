@@ -54,5 +54,5 @@ have gained proeficiency in CAD and CAM software, as well as C++ and 3D printing
 ```
 
 # Contact Me
-### Email: [smmularoni@wpi.edu](smmularoni@wpi.edu)
+### Email: *smmularoni@wpi.edu*
 ### [Resume](https://github.com/somariamul/Sophia-Mularoni/files/6260245/Resume.pdf)
