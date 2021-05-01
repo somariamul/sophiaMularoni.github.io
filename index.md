@@ -1,11 +1,10 @@
 # **About me**
   I have lived in Washington state for most of my life, and am currently attending WPI as a robotics major. 
-  In my free time I like to enjoy the outdoors. I'm currently looking  for summer time employement.
-  Check out my [resume](https://github.com/somariamul/Sophia-Mularoni/files/6260245/Resume.pdf) for more info on my skills and work experience!
-  ![20190713_140101](https://user-images.githubusercontent.com/23114058/116797495-48f84f00-aab4-11eb-911e-455bf3f06d7e.jpg)
-  ![Resized_Resized_20200708_134650](https://user-images.githubusercontent.com/23114058/116797497-4f86c680-aab4-11eb-9e38-178dc72855ea.jpeg)
-
-
+  In my free time I like to enjoy the outdoors. Currently looking  for summer time employement,
+  check out my [resume](https://github.com/somariamul/Sophia-Mularoni/files/6260245/Resume.pdf) for more info on my skills and work experience!
+  <img src="https://user-images.githubusercontent.com/23114058/116797495-48f84f00-aab4-11eb-911e-455bf3f06d7e.jpg" width="400" height="350" alt="">
+  <img src="https://user-images.githubusercontent.com/23114058/116797497-4f86c680-aab4-11eb-9e38-178dc72855ea.jpeg" width="400" height="350" alt="">
+  
 # **Education**
 ### **Worcester Polytechnic Institute (WPI)**
 ```markdown
@@ -54,4 +53,5 @@ have gained proeficiency in CAD and CAM software, as well as C++ and 3D printing
 ```
 
 # Contact Me
-Email: smmularoni@wpi.edu
+Email: [smmularoni@wpi.edu]
+[Resume](https://github.com/somariamul/Sophia-Mularoni/files/6260245/Resume.pdf)
