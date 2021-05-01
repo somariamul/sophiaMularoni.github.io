@@ -1,7 +1,8 @@
 # **About me**
   I'm a college student looking for summer time employment. 
   Check out my [resume](https://github.com/somariamul/Sophia-Mularoni/files/6260245/Resume.pdf) for more info on my skills and work experience!
-  
+  ![IMG_20200204_220019_220 (2)](https://user-images.githubusercontent.com/23114058/116797241-9921e200-aab1-11eb-9ce0-b46624a5fec2.jpg)
+
 # **Education**
 ### **Worcester Polytechnic Institute (WPI)**
 ```markdown
@@ -37,14 +38,17 @@ have gained proeficiency in CAD and CAM software, as well as C++ and 3D printing
 
 # Work Experience
 ### Home Depot - Hardware Associate 
-####*April 2020 - December 2020*
+*April 2020 - December 2020*
 ```markdown
 -Assisted customers in finding supplies for projects
 ```
 
 ### Young Whiz Kids - Teacher 
-####*December 2019 - March 2020*
+*December 2019 - March 2020*
 ```markdown
 -Taught children robotics with block programming and LEGO tools
 -Curated lessons and engaged students in curriculum
 ```
+
+# Contact Me
+Email: smmularoni@wpi.edu
