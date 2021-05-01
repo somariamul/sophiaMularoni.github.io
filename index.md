@@ -1,7 +1,10 @@
 # **About me**
-  I'm a college student looking for summer time employment. 
+  I have lived in Washington state for most of my life, and am currently attending WPI as a robotics major. 
+  In my free time I like to enjoy the outdoors. I'm currently looking  for summer time employement.
   Check out my [resume](https://github.com/somariamul/Sophia-Mularoni/files/6260245/Resume.pdf) for more info on my skills and work experience!
-  ![IMG_20200204_220019_220 (2)](https://user-images.githubusercontent.com/23114058/116797241-9921e200-aab1-11eb-9ce0-b46624a5fec2.jpg)
+  ![20190713_140101](https://user-images.githubusercontent.com/23114058/116797495-48f84f00-aab4-11eb-911e-455bf3f06d7e.jpg)
+  ![Resized_Resized_20200708_134650](https://user-images.githubusercontent.com/23114058/116797497-4f86c680-aab4-11eb-9e38-178dc72855ea.jpeg)
+
 
 # **Education**
 ### **Worcester Polytechnic Institute (WPI)**
