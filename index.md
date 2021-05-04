@@ -1,6 +1,6 @@
 # **About me**
   I have lived in Washington state for most of my life, and am currently attending WPI as a robotics major. 
-  In my free time I like to enjoy the outdoors. I'm currently looking  for summer time employement, and possibly a co-op.
+  In my free time I like to enjoy the outdoors and rock climb. I'm currently looking  for summer time employement, and possibly a co-op.
   Check out my [resume](https://github.com/somariamul/Sophia-Mularoni/files/6423233/SophiaMularoni.Resume.pdf)
   for more info on my 
   skills and work experience!
