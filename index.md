@@ -26,7 +26,7 @@ GPA: 3.55/4.0
 
 ```markdown
 I have done many woodworking projects, from making a cutting board for myself to designing, 
-fabricating, and selling furniture out of my garage. I am proeficient in both woodworking 
+fabricating, and selling furniture out of my garage. I am proficient in both woodworking 
 and metalworking as well as a wide variety of shop tools.
 ```
 <img src="https://user-images.githubusercontent.com/23114058/116767441-20158280-a9fe-11eb-93ca-6af8341c42f9.jpg" width="400" height="350" alt="">
