@@ -1,7 +1,8 @@
 # **About me**
   I have lived in Washington state for most of my life, and am currently attending WPI as a robotics major. 
   In my free time I like to enjoy the outdoors. I'm currently looking  for summer time employement, and possibly a co-op.
-  Check out my [resume](https://github.com/somariamul/Sophia-Mularoni/files/6260245/Resume.pdf) for more info on my 
+  Check out my [resume](https://github.com/somariamul/Sophia-Mularoni/files/6423233/SophiaMularoni.Resume.pdf)
+  for more info on my 
   skills and work experience!
   
   <img src="https://user-images.githubusercontent.com/23114058/116797495-48f84f00-aab4-11eb-911e-455bf3f06d7e.jpg" width="300" height="550" alt="">
@@ -56,4 +57,5 @@ have gained proeficiency in CAD and CAM software, as well as C++ and 3D printing
 
 # Contact Me
 ### Email: *smmularoni@wpi.edu*
-### [Resume](https://github.com/somariamul/Sophia-Mularoni/files/6260245/Resume.pdf)
+### [Resume](https://github.com/somariamul/Sophia-Mularoni/files/6423238/SophiaMularoni.Resume.pdf)
+
