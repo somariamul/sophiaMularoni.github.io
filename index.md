@@ -11,7 +11,8 @@
 # **Education**
 ### **Worcester Polytechnic Institute (WPI)**
 ```markdown
-I am currently a freshman pursuing a bachelors of Bachelors of Science in  Robotics Engineering.
+I am currently a freshman pursuing a bachelors of Bachelors of Science
+in  Robotics Engineering.
 GPA: 3.55/4.0
 ```
 
