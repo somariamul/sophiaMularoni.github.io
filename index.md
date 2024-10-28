@@ -2,6 +2,13 @@
 layout: default
 title: Home
 ---
+<nav>
+  <ul>
+    {% for item in site.navigation %}
+      <li><a href="{{ resume }}">{{ resume.md }}</a></li>
+    {% endfor %}
+  </ul>
+</nav>
 
 # **About me**
   I have lived in Washington state for most of my life, and am a recent WPI graduate.
