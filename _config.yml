@@ -3,8 +3,8 @@ navigation:
   - title: Home
     url: /
   - title: Resume
-    url: /resume
+    url: /Resume
   - title: Portfolio
-    url: /portfolio
+    url: /Portfolio
   - title: Contact Me
-    url: /contact
+    url: /Contact
