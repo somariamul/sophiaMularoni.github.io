@@ -5,7 +5,7 @@ title: Resume
 
 <h1>Resume</h1>
 
- </h2>Education</h2>
+ ## **Education</h2>**
  
  ### **Worcester Polytechnic Institute (WPI)**
   *August 2020 - May 2024*
