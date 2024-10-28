@@ -1,4 +1,6 @@
 ---
+layout: default
+theme: ‎jekyll-theme-cayman‎
 title: Home
 ---
 
