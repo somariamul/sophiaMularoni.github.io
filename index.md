@@ -5,10 +5,9 @@ title: Home
 
 <nav>
     <ul>
-        <li><a href="/">Home</a></li>
-        <li><a href="/resume">Resume</a></li>
-        <li><a href="/portfolio">Portfolio</a></li>
-        <li><a href="/contact">Contact Me</a></li>
+        <li><a href="/Resume">Resume</a></li>
+        <li><a href="/Portfolio">Portfolio</a></li>
+        <li><a href="/Contact">Contact Me</a></li>
     </ul>
 </nav>
 
