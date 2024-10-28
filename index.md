@@ -3,17 +3,6 @@ layout: default
 title: Home
 ---
 
-<nav>
-    <ul>
-        <li><a href="/Resume">Resume</a></li>
-        <li><a href="/Portfolio">Portfolio</a></li>
-        <li><a href="/Contact">Contact Me</a></li>
-    </ul>
-</nav>
-
-<h1>Welcome to My Website</h1>
-<p>This is the home page where I introduce myself.</p>
-
 # **About me**
   I have lived in Washington state for most of my life, and am a recent WPI graduate.
   In my free time I like to enjoy the outdoors and rock climb. I'm currently looking for full time employment and am interested in networking or entrepreneurial opportunities in the medical device field.
