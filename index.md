@@ -1,3 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <link rel="stylesheet" href="/assets/style.css">
+    <style>
+        nav {
+            background-color: #35424a;
+            padding: 10px;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>{{ site.title }}</h1>
+        <nav>
+            <a href="/">Home</a>
+            <a href="/resume">Resume</a>
+            <a href="/portfolio">Portfolio</a>
+            <a href="/contact">Contact Me</a>
+        </nav>
+    </header>
+    <main>
+        {{ content }}
+    </main>
+    <footer>
+        <p>&copy; {{ site.year }} {{ site.title }}. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+
 # **About me**
   I have lived in Washington state for most of my life, and am a recent WPI graduate.
   In my free time I like to enjoy the outdoors and rock climb. I'm currently looking for full time employment and am interested in networking or entrepreneurial opportunities in the medical device field.
