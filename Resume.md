@@ -3,8 +3,8 @@ layout: default
 title: Resume
 ---
 
-<h2>Resume</h2>
-# **Education**
+<h1>Resume</h1>
+</h2>Education</h2>
 ### **Worcester Polytechnic Institute (WPI)**
   *August 2020 - May 2024*
 ```markdown
