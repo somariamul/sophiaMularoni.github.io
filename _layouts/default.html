@@ -24,14 +24,10 @@
     <header>
         <h1>{{ site.title }}</h1>
         <nav>
-            <ul>
-              {% for item in site.navigation %}
-                  <li><a href="/">Home</a></li>
-                  <li><a href="/resume">Resume</a></li>
-                  <li><a href="/contact">Contact Me</a></li>
-                  <li><a href="/portfolio">Portfolio</a></li>
-              {% endfor %}
-            </ul>
+             <button onclick="location.href='/'">Home</button>
+            <button onclick="location.href='/resume'">Resume</button>
+            <button onclick="location.href='/portfolio'">Portfolio</button>
+            <button onclick="location.href='/contact'">Contact Me</button>
         </nav>
     </header>
     <main>
