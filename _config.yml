@@ -1,1 +1,10 @@
 theme: jekyll-theme-cayman
+navigation:
+  - title: Home
+    url: /
+  - title: Resume
+    url: /resume
+  - title: Portfolio
+    url: /portfolio
+  - title: Contact Me
+    url: /contact
