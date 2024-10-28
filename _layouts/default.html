@@ -1,27 +1,41 @@
-<style>
-nav {
-    background-color: #35424a;
-    padding: 10px;
-}
-
-nav ul {
-    list-style-type: none; /* Remove bullet points */
-    padding: 0;
-    display: flex; /* Display items in a row */
-    justify-content: center; /* Center the items */
-}
-
-nav li {
-    margin: 0 15px; /* Space out the items */
-}
-
-nav a {
-    color: white;
-    text-decoration: none; /* Remove underline */
-}
-
-nav a:hover {
-    text-decoration: underline; /* Add underline on hover */
-}
-</style>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <link rel="stylesheet" href="/assets/style.css">
+    <style>
+        nav {
+            background-color: #35424a;
+            padding: 10px;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>{{ site.title }}</h1>
+        <nav>
+            <a href="/">Home</a>
+            <a href="/resume">Resume</a>
+            <a href="/portfolio">Portfolio</a>
+            <a href="/contact">Contact Me</a>
+        </nav>
+    </header>
+    <main>
+        {{ content }}
+    </main>
+    <footer>
+        <p>&copy; {{ site.year }} {{ site.title }}. All rights reserved.</p>
+    </footer>
+</body>
+</html>
 
