@@ -1,12 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<nav>
-  <ul>
-    {% for item in site.navigation %}
-      <li><a href="{{ Resume.url }}">{{ Resume.md }}</a></li>
-    {% endfor %}
-  </ul>
-</nav>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -35,6 +28,15 @@
             <a href="/resume">Resume</a>
             <a href="/portfolio">Portfolio</a>
             <a href="/contact">Contact Me</a>
+            <ul>
+              {% for item in site.navigation %}
+              <li><a href="/">Home</a></li>
+              <li><a href="/resume">Resume</a></li>
+              <li><a href="/contact">Contact Me</a></li>
+              <li><a href="/portfolio">Portfolio</a></li>
+
+              {% endfor %}
+            </ul>
         </nav>
     </header>
     <main>
