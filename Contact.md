@@ -3,6 +3,12 @@ layout: default
 title: Contact Me
 ---
 
-<h2>Contact Me</h2>
-<p>If you'd like to get in touch, please fill out the form below.</p>
-<!-- You can add a contact form here or your contact details -->
+# Contact Me
+
+## Feel free to reach out to me through the following channels:
+
+### Email
+You can email me at [somariamul@gmail.com](mailto:somariamul@gmail.com)
+
+### LinkedIn
+[Connect with me on LinkedIn](https://www.linkedin.com/in/sophia-mularoni-8781541b1/)
