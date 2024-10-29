@@ -21,7 +21,7 @@ I was one of three captains of our FIRST FRC robotics team in my junior year and
   GPA: 3.60/4.0
 ```
 
-# Work Experience
+## Work Experience
 ### WPI Makerspace - Prototyping Lab Assistant/Marketing Assistant
 *March 2021 - May 2024*
 ```markdown
@@ -56,7 +56,7 @@ I was one of three captains of our FIRST FRC robotics team in my junior year and
 -Curated lessons and engaged students in curriculum
 ```
 
-# **Projects**
+## **Projects**
 ### Live Edge Furniture
 ```markdown
 I have done many woodworking projects, from making a cutting board for myself to designing, 
