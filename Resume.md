@@ -3,7 +3,7 @@ layout: default
 title: Resume
 ---
 
-<h1>Resume</h1>
+# **Resume**
 
  ## **Education**
  
@@ -54,6 +54,7 @@ I was one of three captains of our FIRST FRC robotics team in my junior year and
 ```markdown
 -Taught children robotics with block programming and LEGO tools
 -Curated lessons and engaged students in curriculum
+```
 
 # **Projects**
 ### Live Edge Furniture
