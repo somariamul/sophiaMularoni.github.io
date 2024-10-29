@@ -73,3 +73,7 @@ create an autonomous robot that picks up objects and delivers them. From these e
 have gained proeficiency in CAD and CAM software, as well as C++ and 3D printing.
 ```
 ![robotisCollage](https://user-images.githubusercontent.com/23114058/116796848-bf458300-aaad-11eb-8d2b-41818580ecb8.PNG)
+
+```
+# Download my resume in PDF form here:
+### [Resume](https://github.com/somariamul/Sophia-Mularoni/files/6423238/SophiaMularoni.Resume.pdf)
