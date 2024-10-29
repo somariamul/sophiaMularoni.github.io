@@ -5,9 +5,9 @@ title: Resume
 
 # **Resume**
 
- ## **Education**
+## **Education**
  
- ### **Worcester Polytechnic Institute (WPI)**
+### **Worcester Polytechnic Institute (WPI)**
   *August 2020 - May 2024*
  ```markdown
 During my time at WPI I participated in the Compeititve Climbing and Rugby clubs and held a chair position in WPI's Engineers Without Borders chapter for 1 year. After developing a medical device from conceptualization to MVP, my senior project team won the Biomedical Engineering department's Provost Award for our final presentation.
